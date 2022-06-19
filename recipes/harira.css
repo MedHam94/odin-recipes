@@ -1,0 +1,12 @@
+*{
+    background-color: burlywood;
+    font-size: 22px;
+}
+
+.logo{
+    height: 50px;
+    width: auto;
+}
+h1{
+    display: inline;
+}
