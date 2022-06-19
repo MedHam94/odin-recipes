@@ -21,3 +21,7 @@ h1{
     display: block;
     margin: 10px auto 40px auto;
 }
+
+section{
+    margin: 10px 60px;
+}
