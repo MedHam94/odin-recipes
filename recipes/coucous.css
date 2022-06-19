@@ -15,9 +15,13 @@ h1{
     text-align: center;
 }
 
-img{
+.couscous{
     height: 500px;
     width: auto;
     display: block;
     margin: 10px auto 40px auto;
+}
+
+section{
+    margin: 10px 60px;
 }
