@@ -10,3 +10,14 @@
 h1{
     display: inline;
 }
+
+.title{
+    text-align: center;
+}
+
+.harira{
+    height: 500px;
+    width: auto;
+    display: block;
+    margin: 10px auto 40px auto;
+}
