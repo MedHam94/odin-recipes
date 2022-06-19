@@ -1,0 +1,27 @@
+*{
+    background-color: burlywood;
+    font-size: 22px;
+}
+
+.logo{
+    height: 50px;
+    width: auto;
+}
+h1{
+    display: inline;
+}
+
+.title{
+    text-align: center;
+}
+
+.main_pic{
+    height: 500px;
+    width: auto;
+    display: block;
+    margin: 10px auto 40px auto;
+}
+
+section{
+    margin: 10px 60px;
+}
